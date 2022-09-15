@@ -1,0 +1,1 @@
+furi_hal_version.c:296
